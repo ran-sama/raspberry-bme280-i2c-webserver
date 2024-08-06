@@ -1,4 +1,4 @@
-# bme280-i2c-raspberry-webserver
+# raspberry-bme280-i2c-webserver
 Read from a BME280 and plot the data to display on a webserver.
 
 ![alt text](https://raw.githubusercontent.com/ran-sama/bme280_i2c_raspberry_webserver/master/climate.png)
